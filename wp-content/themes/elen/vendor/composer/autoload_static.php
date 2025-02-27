@@ -9,14 +9,19 @@ class ComposerStaticInitf0e22f35fc7cc249137ccc36d4883f16
     public static $prefixLengthsPsr4 = array (
         'G' => 
         array (
-            'GhulamQadir\\Elen\\' => 17,
+            'GhulamQadir\\Elen\\Trait\\' => 23,
+            'GhulamQadir\\Elen\\Class\\' => 23,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'GhulamQadir\\Elen\\' => 
+        'GhulamQadir\\Elen\\Trait\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/inc',
+            0 => __DIR__ . '/../..' . '/inc/traits',
+        ),
+        'GhulamQadir\\Elen\\Class\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/inc/classes',
         ),
     );
 
