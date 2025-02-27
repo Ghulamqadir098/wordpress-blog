@@ -1,0 +1,19 @@
+{
+    "name": "ghulam-qadir/elen",
+    "description": "A simple travel blog theme using OOP in WordPress.",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "GhulamQadir\\Elen\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ghulam Qadir",
+            "email": "g.qadir.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
