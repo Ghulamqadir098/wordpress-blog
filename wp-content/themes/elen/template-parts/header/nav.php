@@ -16,3 +16,13 @@
                 </div>
             </div>
         </nav>
+        
+        
+        <?php
+// wp_nav_menu([
+//     'theme_location' => 'elen-header-menu', // Use the same location name from functions.php
+//     'menu_class'     => 'nav-menu', // Add a CSS class for styling
+//     'container'      => 'nav', // Wrap menu inside <nav> tag
+//     'fallback_cb'    => false, // Disable fallback menu
+// ]);
+?>

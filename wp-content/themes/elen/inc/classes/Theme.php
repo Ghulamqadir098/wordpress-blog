@@ -11,8 +11,7 @@ class Theme {
     private function __construct() {
         // add_action('after_setup_theme', [$this, 'setup_theme']);
         Enqueue::get_instance();
-      
-        
+        Menus::get_instance();        
     }
 
    
